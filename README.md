@@ -1,0 +1,1 @@
+All the images in this project were leagally downloaded from https://www.pexels.com/search/animal/
