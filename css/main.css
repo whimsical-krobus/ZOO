@@ -1,5 +1,38 @@
 body {
     background-color: peachpuff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header {
+    background-color: #2e8b57;
+    padding: 1rem;
+    text-align: center;
+    color: black;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+nav {
+    background-color: #2e8b57;
+    padding: 0.5rem 0;
+}
+
+.navbar {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.navbar li a:hover {
+    color: #87cefa;
 }
 
 .container {
@@ -44,6 +77,18 @@ body {
     border-radius: 3px;
 }
 
+footer {
+    background-color: #2e8b57;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+footer a {
+    color: #ffffff;
+    text-decoration: underline;
+}
 
 /* Using a mobile-first approach by adding mobile layout first*/
 @media screen and (min-width: 500px)  {
