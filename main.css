@@ -25,6 +25,7 @@ body {
 
 #search-section {
     align-content: normal;
+    display: inline-block;
 }
 
 #search-bar {
