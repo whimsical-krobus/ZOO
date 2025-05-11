@@ -82,6 +82,19 @@ nav {
     border-radius: 6px;
 }
 
+.search-heading {
+    margin-bottom: 0.5rem;
+    font-size: 1.3rem;
+    color: #2e8b57; /* Matches your header/footer green */
+}
+
+.search-bar-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; /* Allows wrapping on smaller screens */
+    gap: 0.5rem; /* Space between input and button */
+}
+
 #search-bar {
     padding: 0.5rem;
     width: 250px;
