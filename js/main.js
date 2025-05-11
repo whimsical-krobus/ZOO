@@ -1,14 +1,16 @@
 function searchContent() {
     const input = document.getElementById('search-bar').value.toLowerCase();
-    const animalCards = document.querySelectorAll('.animal');
+    const animals = document.querySelectorAll('.animal');
+    let found = false;
 
-    animalCards.forEach(card => {
-        const text = card.innerText.toLowerCase();
-
-        if (text.includes(input)) {
-            card.style.display = 'block'; // Show card
-        } else {
-            card.style.display = 'none'; // Hide card
-        }
+    animals.forEach(animal => {
+        const text = animal.textContent.toLowerCase();
+        const match = text.includes(input);
+        animal.style.display = match ? 'block' : 'none';
+        if (match) found = true;
     });
+
+    if (!found && input.trim() !== "") {
+        alert("No animals matched your search.");
+    }
 }
