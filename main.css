@@ -18,15 +18,21 @@ body {
 .image animal {
     height: 100%;
     width: 100%;
-
     display: block;
     object-fit: cover;
 }
 
-/* Add media query for responsiveness on mobile screen */
+/* Add media query for responsiveness depending on screen sizes */
 
-@media (max-width: 768px)  {
+/* Using a mobile-first approach by adding mobile layout first*/
+@media screen and (min-width: 768px)  {
     .container {
         grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .container {
+        grid-template-columns: repeat(4, 1fr);
     }
 }
