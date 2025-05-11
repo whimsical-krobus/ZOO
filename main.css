@@ -29,14 +29,15 @@ body {
 
 #search-bar {
     background-color: seashell;
+    border-radius: 4px;
 }
 
 #search-button {
     background-color: lightslategray;
     font-weight: bold;
+    border-radius: 3px;
 }
 
-/* Add media query for responsiveness depending on screen sizes */
 
 /* Using a mobile-first approach by adding mobile layout first*/
 @media screen and (min-width: 500px)  {
