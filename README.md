@@ -4,13 +4,6 @@ Welcome to the **Fantasia Zoo Webpage** — a fictional, educational website des
 
 ---
 
-## 🌐 Live Preview
-
-If hosted, add your link here:  
-**[View the Zoo Website →](#)**
-
----
-
 ## 📁 Features
 
 - Responsive layout with mobile-first design
@@ -42,12 +35,3 @@ All images used in this project were sourced from [Pexels](https://www.pexels.co
 | 12 | Suricata       | Andrius              | [View](https://www.pexels.com/photo/brown-and-gray-rodent-selective-focus-photo-843043/) |
 
 ---
-
-## 🚀 Setup (Optional)
-
-If you're running this locally:
-
-```bash
-git clone https://github.com/your-username/fantasia-zoo.git
-cd fantasia-zoo
-open index.html
