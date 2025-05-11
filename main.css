@@ -23,6 +23,11 @@ body {
     text-align: center;   
 }
 
+.wrapper {
+    display: flex;
+    align-items: flex-start;
+}
+
 #search-section {
     align-content: normal;
     display: inline-block;
