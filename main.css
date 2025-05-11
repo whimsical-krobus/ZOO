@@ -24,3 +24,9 @@ body {
 }
 
 /* Add media query for responsiveness on mobile screen */
+
+@media (max-width: 768px)  {
+    .container {
+        grid-template-columns: 1fr;
+    }
+}
