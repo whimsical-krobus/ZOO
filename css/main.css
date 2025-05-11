@@ -44,6 +44,18 @@ nav {
     margin: 0;
 }
 
+.about-section {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem 1.5rem;
+    background-color: #f5f5dc; /* Warm beige tone */
+    border-left: 5px solid #2e8b57;
+    border-radius: 6px;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #333;
+}
+
 #introduction {
     text-align: center;
     margin: 2rem 0 1rem;
