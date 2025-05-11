@@ -23,6 +23,19 @@ body {
     text-align: center;   
 }
 
+#search-section {
+    align-content: normal;
+}
+
+#search-bar {
+    background-color: seashell;
+}
+
+#search-button {
+    background-color: lightslategray;
+    font-weight: bold;
+}
+
 /* Add media query for responsiveness depending on screen sizes */
 
 /* Using a mobile-first approach by adding mobile layout first*/
