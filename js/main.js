@@ -1,9 +1,14 @@
 function searchContent() {
-  const input = document.getElementById('search-bar').value.toLowerCase();
-  const paragraphs = document.querySelectorAll('#content p');
+    const input = document.getElementById('search-bar').value.toLowerCase();
+    const animalCards = document.querySelectorAll('.animal');
 
-  paragraphs.forEach(p => {
-    const text = p.textContent.toLowerCase();
-    p.style.display = text.includes(input) ? 'block' : 'none';
-  });
+    animalCards.forEach(card => {
+        const text = card.innerText.toLowerCase();
+
+        if (text.includes(input)) {
+            card.style.display = 'block'; // Show card
+        } else {
+            card.style.display = 'none'; // Hide card
+        }
+    });
 }
