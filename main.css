@@ -3,22 +3,17 @@ body {
 }
 
 .container {
-    display: flex;
-
-    flex-direction: row;
-
-    justify-content: space-around;
-
-    flex-wrap: wrap;
-    gap: 10px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
 }
 
-.container > div {
-    height: 50px;
-    width: 150px;
+.animals {
+    height: auto;
+    width: 100%;
 
-    display: flex;
-
-    justify-content: center;
-    align-items: center;
+    display: block;
+    object-fit: cover;
 }
+
+/* Add media query for responsiveness on mobile screen */
