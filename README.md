@@ -10,3 +10,5 @@ Nr 7: Chameleon by Pixabay: https://www.pexels.com/photo/yellow-and-green-coated
 Nr 8: Toucan by Carlos Spitzer: https://www.pexels.com/photo/black-and-green-toucan-on-tree-branch-17811/
 Nr 9: Hippo by Follow Alice: https://www.pexels.com/photo/black-hippopotamus-on-green-grass-667201/
 Nr 10: Raccoon by Pixabay: https://www.pexels.com/photo/grey-short-coat-animal-laying-on-grey-wooden-panel-54602/
+Nr 11: Seaturtle by PRichard Segal: https://www.pexels.com/photo/black-and-white-turtle-1618606/
+Nr 12: Bee by Pixabay: https://www.pexels.com/photo/brown-and-black-bee-on-yellow-flower-nectar-460961/
