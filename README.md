@@ -1,6 +1,6 @@
 # 🐾 Fantasia Zoo Webpage
 
-Welcome to the **Fantasia Zoo Webpage** — a fictional, educational website designed to showcase a variety of animals in a visually engaging and responsive layout. This project demonstrates the use of **HTML, CSS, and JavaScript** to create an interactive and mobile-friendly experience.
+Welcome to the **Fantasia Zoo Webpage** — a fictional, educational website designed to showcase a variety of animals in a visually engaging and responsive layout. This project demonstrates the use of **HTML, CSS, and JavaScript** to create an interactive and mobile-friendly experience, it is an ongoing project where I get to showcase my creativity while I'm developing my skills in frontend web development.
 
 ---
 
