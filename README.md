@@ -15,6 +15,13 @@ Welcome to the **Fantasia Zoo Webpage** — a fictional, educational website des
 
 ---
 
+## 🖼️ Webpage
+
+[Webpage](assets/sample.png)
+[Mobile](assets/mobilesample.png)
+
+---
+
 ## 📸 Image Credits
 
 All images used in this project were sourced from [Pexels](https://www.pexels.com/), a free stock photo website. Below are the individual attributions:
