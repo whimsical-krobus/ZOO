@@ -15,10 +15,10 @@ Welcome to the **Fantasia Zoo Webpage** — a fictional, educational website des
 
 ---
 
-## 🖼️ Webpage
+## 🖼️ Webpage Layout
 
-<img src="assets/sample.png" alt="App Web Layoput Screenshot" width="400"/>
-<img src="assets/mobilesample.png" alt="App Mobile Layoput Screenshot" width="400"/>
+<img src="assets/sample.png" alt="Web Layout Screenshot" width="800"/>
+<img src="assets/mobilesample.png" alt="Mobile Layout Screenshot" width="400"/>
 
 
 ---
