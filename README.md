@@ -17,8 +17,9 @@ Welcome to the **Fantasia Zoo Webpage** — a fictional, educational website des
 
 ## 🖼️ Webpage
 
-[Webpage](assets/sample.png)
-![Mobile](assets/mobilesample.png)
+<img src="assets/sample.png" alt="App Web Layoput Screenshot" width="400"/>
+<img src="assets/mobilesample.png" alt="App Mobile Layoput Screenshot" width="400"/>
+
 
 ---
 
