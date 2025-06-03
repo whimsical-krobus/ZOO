@@ -93,6 +93,7 @@ nav {
     justify-content: center;
     flex-wrap: wrap; /* Allows wrapping on smaller screens */
     gap: 0.5rem; /* Space between input and button */
+    position: static;
 }
 
 #search-bar {
