@@ -18,10 +18,10 @@ Welcome to the **Fantasia Zoo Webpage** — a fictional, educational website des
 ## 🖼️ Webpage Layout
 
 Here is a sample of how the Webpage looks on a larger screen in Web Layout:
-<img src="assets/sample.png" alt="Web Layout Screenshot" width="800"/>
+<img src="assets/sample2.png" alt="Web Layout Screenshot" width="800"/>
 
 And here is a sample of how it looks on a smaller screen in Mobile Layout:
-<img src="assets/mobilesample.png" alt="Mobile Layout Screenshot" width="400"/>
+<img src="assets/mobilesample2.png" alt="Mobile Layout Screenshot" width="400"/>
 
 
 ---
