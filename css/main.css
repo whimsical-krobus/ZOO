@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Oswald:wght@200..700&family=Quicksand:wght@300..700&display=swap');
 
 body {
-    background-color: rgb(255, 234, 215); /* Soft white | Muted beige: #F5EBDD */
+    background-color: #fcf1e9; /* Original Soft beige white: #fcf1e9 | Current Muted warm beige: rgb(248, 234, 224) */
     font-family: 'Quicksand', sans-serif;
     margin: 0;
     padding: 0;
-    color: #333;
+    color: #333333;
 }
 
 header {
-    background-color: #2e8b57; /* Forest green | Dark moss green: #3E5C3A */
+    background-color: #3d8a33; /* Original Forest green: #2e8b57 | Current Warm moss green: #3d8a33 */
     padding: 1rem;
     text-align: center;
     color: white;
@@ -24,7 +24,7 @@ header {
 }
 
 nav {
-    background-color: #2e8b57;
+    background-color: #3d8a33;
     padding: 0.5rem 0;
 }
 
@@ -45,15 +45,15 @@ nav {
 }
 
 .navbar li a:hover {
-    color: #87cefa;
+    color: #d2fa87;
 }
 
 .about-section {
     max-width: 800px;
     margin: 2rem auto;
     padding: 1rem 1.5rem;
-    background-color: #f5f5dc; /* Warm beige tone */
-    border-left: 5px solid #2e8b57;
+    background-color: #f5f5dc; /* Warm beige tone: #f5f5dc */
+    border-left: 5px solid #3d8a33;
     border-radius: 6px;
     font-size: 1.1rem;
     line-height: 1.6;
@@ -66,7 +66,7 @@ nav {
     font-size: 1.8rem;
     font-weight: 700;
     text-shadow: 0.1px 0 0, -0.1px 0 0;
-    color: #2e8b57;
+    color: #3d8a33;
 }
 
 /* Wrapper & Layout */
@@ -93,7 +93,7 @@ nav {
     font-size: 1.3rem;
     font-weight: 700;
     text-shadow: 0.1px 0 0, -0.1px 0 0;
-    color: #2e8b57; /* Matches header/footer green */
+    color: #3d8a33; /* Matches header/footer green */
 }
 
 .search-bar-wrapper {
@@ -116,7 +116,7 @@ nav {
 
 #search-button {
     padding: 0.5rem 1rem;
-    background-color: #3cb371; /* Light sky blue */
+    background-color: #50b143; /* Light sky blue */
     color: #ffffff;
     border: none;
     border-radius: 6px;
@@ -127,7 +127,7 @@ nav {
 }
 
 #search-button:hover {
-    background-color: #2e8b57;
+    background-color: #3d8a33;
 }
 
 /* Animal Card Grid */
@@ -161,7 +161,7 @@ nav {
 }
 
 footer {
-    background-color: #2e8b57;
+    background-color: #3d8a33;
     color: white;
     text-align: center;
     padding: 1rem;
